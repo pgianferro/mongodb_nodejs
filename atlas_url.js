@@ -1,4 +1,4 @@
-
+//Change password to successful connection
 module.exports = uri = "mongodb+srv://admin:password@myatlasclusteredu.8riisqd.mongodb.net/?retryWrites=true&w=majority";
 
 //const { MongoClient, ServerApiVersion } = require('mongodb');
